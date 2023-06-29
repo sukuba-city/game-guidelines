@@ -24,14 +24,14 @@
 These guidelines are intended to limit your behavior to a minimum in order to ensure a pleasant experience for all users of Sukuuba City.
 In order to maintain the community, some management may intervene. Please check with us in advance.
 
-Threatening other players
+1. Threatening other players
 In order to ensure the safety of our users, Sukuba City strictly restricts the following behaviors and actions that may threaten other players
 We have strict restrictions on the following behaviors and actions that may threaten other players. 2.
 
-Stalking and harassment
+2. Stalking and harassment
 Persistently stalking or harassing other players in the game falls under the above categories. Slander and attacks against each player also fall under this category. Depending on the degree of maliciousness, the management may intervene and issue a warning. 3.
 
-Use of illegal tools (exploits, etc.)
+3. Use of illegal tools (exploits, etc.)
 Any tools that have a significant impact on the game are not allowed in the game. We will suspend you from using the game (indefinitely) for any reason whatsoever. 4.
 
 4. intentionally using a bug in the game to affect the game
