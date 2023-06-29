@@ -26,16 +26,16 @@ In order to maintain the community, some management may intervene. Please check 
 
 1. Threatening other players
 In order to ensure the safety of our users, Sukuba City strictly restricts the following behaviors and actions that may threaten other players
-We have strict restrictions on the following behaviors and actions that may threaten other players. 2.
+We have strict restrictions on the following behaviors and actions that may threaten other players.
 
 2. Stalking and harassment
-Persistently stalking or harassing other players in the game falls under the above categories. Slander and attacks against each player also fall under this category. Depending on the degree of maliciousness, the management may intervene and issue a warning. 3.
+Persistently stalking or harassing other players in the game falls under the above categories. Slander and attacks against each player also fall under this category. Depending on the degree of maliciousness, the management may intervene and issue a warning.
 
 3. Use of illegal tools (exploits, etc.)
-Any tools that have a significant impact on the game are not allowed in the game. We will suspend you from using the game (indefinitely) for any reason whatsoever. 4.
+Any tools that have a significant impact on the game are not allowed in the game. We will suspend you from using the game (indefinitely) for any reason whatsoever.
 
 4. intentionally using a bug in the game to affect the game
-This is strictly prohibited as it causes lag and performance degradation. Depending on the degree of maliciousness, the game may be suspended (for several days). 5.
+This is strictly prohibited as it causes lag and performance degradation. Depending on the degree of maliciousness, the game may be suspended (for several days).
 
 5. game gangs and gang play
 This refers to a group of players working together to collectively attack or harass other players or elements in the game. Depending on the severity of the offense, the game may be suspended (for several days) for both those involved and those who directed them.
