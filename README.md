@@ -1,4 +1,7 @@
-# 最低限厳守すべきルール (最終更新：23/08/04)
+# すくば市におけるガイドライン
+
+## 最低限厳守すべきルール (最終更新：23/08/04)
+
 - FRP (Fail Role Play)
 車両で逃走している際、その車両が横転した時にゲームの機能等を使用して車両を元の状態に戻す、逃走時に新しい車をスポーンさせる、高いところから落ちても無傷など現実では考えられない行為等
 
@@ -23,7 +26,22 @@
 - Abuse of tools
 警察や消防資機材の濫用
 
-# すくば市におけるロールプレイガイドラインについて（最終更新：23/06/21)
+## 非公式の組織について (最終更新：23/10/01)
+
+すくば市では、非公認組織のゲーム内での活動は一切認めておりません。
+万が一、公認されていない組織が見受けられた場合にはその組織に属するメンバー全員が例外なく一時追放されます。
+
+## 暴走行為について (最終更新：23/10/01)
+
+暴走行為は基本的には許容されますが、以下の禁止事項を厳守したうえでのものとします。
+
+- 故意に他人の車やキャラクターに追突する行為
+
+- 反対車線を走行し、他人の走行を妨害しかねない運転
+
+また、プライベートサーバーにおいては無関係者への危害が一切ない点を踏まえ、上記の禁止事項は無効となります。
+
+## ロールプレイガイドライン（最終更新：23/06/21)
 
 当ガイドラインは、すくば市を利用する全ての方に心地よくご利用頂くために、最低限度でみなさまの行動に制限をかけるものです。
 コミュニティーの維持のために、一部運営が介入することがあります。事前にご確認をお願いします。
@@ -43,24 +61,3 @@
 
 5. ゲームギャング・ギャングプレイ
 これは、複数のプレイヤーが協力し、他のプレイヤーやゲーム内の要素に対して集団的な攻撃や嫌がらせを行うことを指します。悪質の度合いによっては、関与した者及び指示した者双方にゲームの利用停止処分（数日間）を下す可能性があります。
-
-# Role-Playing Guidelines for Sukuuba City (Last updated: 23/06/21)
-
-These guidelines are intended to limit your behavior to a minimum in order to ensure a pleasant experience for all users of Sukuuba City.
-In order to maintain the community, some management may intervene. Please check with us in advance.
-
-1. Threatening other players
-In order to ensure the safety of our users, Sukuba City strictly restricts the following behaviors and actions that may threaten other players
-We have strict restrictions on the following behaviors and actions that may threaten other players.
-
-2. Stalking and harassment
-Persistently stalking or harassing other players in the game falls under the above categories. Slander and attacks against each player also fall under this category. Depending on the degree of maliciousness, the management may intervene and issue a warning.
-
-3. Use of illegal tools (exploits, etc.)
-Any tools that have a significant impact on the game are not allowed in the game. We will suspend you from using the game (indefinitely) for any reason whatsoever.
-
-4. intentionally using a bug in the game to affect the game
-This is strictly prohibited as it causes lag and performance degradation. Depending on the degree of maliciousness, the game may be suspended (for several days).
-
-5. game gangs and gang play
-This refers to a group of players working together to collectively attack or harass other players or elements in the game. Depending on the severity of the offense, the game may be suspended (for several days) for both those involved and those who directed them.
